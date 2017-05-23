@@ -1,7 +1,7 @@
 # Seq2Seq-Gan
 **Jianguo Zhang, May 22, 2017**
 
-Collecting Related implementations for **sequence to sequence**, **generative adversarial networks(GAN)** and **Autoencoder**
+Related implementations for **sequence to sequence**, **generative adversarial networks(GAN)** and **Autoencoder**
 
 ## Sequence to Sequence
 

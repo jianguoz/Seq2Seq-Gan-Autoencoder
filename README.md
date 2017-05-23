@@ -14,12 +14,15 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 ![image2](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/gan_mnist/assets/gan_diagram.png)
 
 * dcgan
+
 ![image6](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/dcgan-svhn/assets/dcgan.png)
 
 * svhn_gan
+
 ![image7](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/dcgan-svhn/assets/svhn_gan.png)
 
 * gan_network
+
 ![image3](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/gan_mnist/assets/gan_network.png)
 
 **Autoencoder**

@@ -12,6 +12,7 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 ### gan_diagram
 
 <div align=center>
+
 ![image2](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/gan_mnist/assets/gan_diagram.png)
 </div>
 

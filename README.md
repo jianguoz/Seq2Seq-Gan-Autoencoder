@@ -19,6 +19,7 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 ### dcgan
 
 <div align=center>
+
 ![image6](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/dcgan-svhn/assets/dcgan.png)
 </div>
 
@@ -26,12 +27,14 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 ### svhn_gan
 
 <div align=center>
+
 ![image7](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/dcgan-svhn/assets/svhn_gan.png)
 </div>
 
 ### gan_network
 
 <div align=center>
+
 ![image3](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/gan_mnist/assets/gan_network.png)
 </div>
 
@@ -40,11 +43,13 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 ### simple_autoencoder
 
 <div align=center>
+
 ![image4](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/autoencoder/assets/simple_autoencoder.png)
 </div>
 
 ### convolutional_autoencoder
 
 <div align=center>
+
 ![image5](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/autoencoder/assets/convolutional_autoencoder.png)
 </div>

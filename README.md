@@ -53,3 +53,8 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 
 ![image5](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/blob/master/autoencoder/assets/convolutional_autoencoder.png)
 </div>
+
+
+### Semi-supervised learning
+
+This is an implementation for [Improve techniques for training Gans](https://arxiv.org/pdf/1606.03498.pdf). Which can be modified for semi-supervised learning 

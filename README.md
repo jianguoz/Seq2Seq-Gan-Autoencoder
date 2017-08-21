@@ -57,4 +57,4 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 
 ### Semi-supervised learning
 
-This is an implementation for [Improve techniques for training Gans](https://arxiv.org/pdf/1606.03498.pdf). Which can be modified for semi-supervised learning 
+[This](https://github.com/JianguoZhang1994/Seq2Seq-Gan-Autoencoder/tree/master/Semi-supervised) is an implementation for [Improve techniques for training Gans](https://arxiv.org/pdf/1606.03498.pdf). Which can be modified for semi-supervised learning 

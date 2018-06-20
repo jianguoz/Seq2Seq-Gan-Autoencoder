@@ -1,5 +1,5 @@
 # Seq2Seq-Gan
-**Jianguo Zhang, May 22, 2017**
+**Jianguo Zhang, June 20, 2018**
 
 Related implementations for **sequence to sequence**, **generative adversarial networks(GAN)** and **Autoencoder**
 
@@ -65,7 +65,7 @@ Related implementations for **sequence to sequence**, **generative adversarial n
 
 Requirements: Tensorflow 1.8.0, [Tensorlayer>=1.8.4](http://tensorlayer.readthedocs.io/en/latest/modules/layers.html#tensorlayer.layers.Seq2Seq), cuda>=9.0.
 
-After tweaking the dataset to bring down the overall % of unknown tokens to 3%, increasing vocabulary to 8000, the [results](https://gist.github.com/suriyadeepan/5d4aaf96c7bd89b908921804c683fee8) are promising.
+After tweaking the dataset to bring down the overall % of unknown tokens to 3%, increasing vocabulary to 8000, the results are promising.
 
 | Query					| Reply					|
 | ------------- | ------------- |
